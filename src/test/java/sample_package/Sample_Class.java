@@ -19,6 +19,7 @@ public class Sample_Class {
 		driver.get("https://www.facebook.com");
 
 		System.out.println(driver.getTitle());
+		System.out.println("Hello world");
 	}
 
 }

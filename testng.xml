@@ -4,6 +4,7 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="sample_package.Sample_Class"/>
+      <class name="sample_package.TestNGClass"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
